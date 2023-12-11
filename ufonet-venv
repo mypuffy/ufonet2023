@@ -1,0 +1,3 @@
+python -m venv ufonet-venv
+ufonet-venv\Scripts\activate # unter Windows
+source ufonet-venv/bin/activate # unter macOS oder Linux
